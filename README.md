@@ -1,4 +1,4 @@
-![alt text](https://github.com/theXtDev/srid-data-extraction-analysis/blob/main/preview.jpg?raw=true)
+![alt text](https://github.com/theXtDev/srid-data-extraction-analysis/blob/main/process_preview.jpg?raw=true)
 
 - extracts data from Single Radial Immunodiffusion assay results.
 - accepts raw image as input
